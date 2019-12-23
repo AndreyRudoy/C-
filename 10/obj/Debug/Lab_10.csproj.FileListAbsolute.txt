@@ -1,0 +1,7 @@
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab\Lab_10\bin\Debug\Lab_10.exe.config
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab\Lab_10\bin\Debug\Lab_10.exe
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab\Lab_10\bin\Debug\Lab_10.pdb
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab\Lab_10\obj\Debug\Lab_10.csprojAssemblyReference.cache
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab\Lab_10\obj\Debug\Lab_10.csproj.CoreCompileInputs.cache
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab\Lab_10\obj\Debug\Lab_10.exe
+D:\MyProjects C#\github\c_sharp_lab_pd-24\Lab\Lab_10\obj\Debug\Lab_10.pdb
