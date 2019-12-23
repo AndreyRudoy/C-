@@ -1,0 +1,6 @@
+D:\Area 9-9\17\6\6\bin\Debug\6.exe.config
+D:\Area 9-9\17\6\6\bin\Debug\6.exe
+D:\Area 9-9\17\6\6\bin\Debug\6.pdb
+D:\Area 9-9\17\6\6\obj\Debug\6.csprojResolveAssemblyReference.cache
+D:\Area 9-9\17\6\6\obj\Debug\6.exe
+D:\Area 9-9\17\6\6\obj\Debug\6.pdb

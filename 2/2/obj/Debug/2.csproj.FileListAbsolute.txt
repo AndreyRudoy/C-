@@ -1,0 +1,6 @@
+D:\Area 9-9\17\2\2\bin\Debug\2.exe.config
+D:\Area 9-9\17\2\2\bin\Debug\2.exe
+D:\Area 9-9\17\2\2\bin\Debug\2.pdb
+D:\Area 9-9\17\2\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+D:\Area 9-9\17\2\2\obj\Debug\2.exe
+D:\Area 9-9\17\2\2\obj\Debug\2.pdb

@@ -1,0 +1,5 @@
+D:\Area 9-9\17\3\3\bin\Debug\3.exe.config
+D:\Area 9-9\17\3\3\bin\Debug\3.exe
+D:\Area 9-9\17\3\3\bin\Debug\3.pdb
+D:\Area 9-9\17\3\3\obj\Debug\3.exe
+D:\Area 9-9\17\3\3\obj\Debug\3.pdb
